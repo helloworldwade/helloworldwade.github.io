@@ -1,0 +1,207 @@
+﻿﻿/*所有代码初始化*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, 
+
+blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, 
+
+em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, 
+
+b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, input, 
+
+button, textarea, table, caption, tbody, tfoot, thead, tr, th, td, article, 
+
+aside, canvas, details, figcaption, figure, footer, header, hgroup, 
+
+menu, nav, section, summary, time, mark, audio, video { margin: 0; 
+
+padding: 0; list-style-type:none;}
+body
+{
+	width:100%;
+	margin:0;
+	background:#f7f7f7;
+	font-family:"华文细黑";
+	overflow-x:hidden;
+	padding-top:42px;
+	padding-bottom:45px;
+} 
+ul { list-style-type:none; }
+img { border:none; }
+a { color:#072f60;
+	 text-decoration: none;
+}
+a:hover {
+	color:#072f60; text-decoration: none;
+}
+.clear { clear:both; }
+.backtop
+{
+    right:.5em;
+    bottom:.5em;
+    position:fixed;
+}
+
+.nwhole
+{
+	width:100%;
+	margin:0 auto;
+	background-color:#44a28c;
+  
+
+              
+}
+.nwhole  .title
+{
+    text-align: center; font-size: 14pt; color: white; height: 48px; 
+
+width: 100%;
+            line-height: 48px; display: block;
+}
+
+
+.wwwhole
+{
+	width:100%;
+	margin:0 auto;
+	background-color:#44a28c;
+
+
+              
+}
+.wwwhole  .title
+{
+    text-align: center; font-size: 14pt; color: white; height: 48px; 
+
+width: 100%;
+            line-height: 48px; display: block;
+}
+.wwhole
+{
+	width:100%;
+	margin:0 auto;
+	background-color:#44a28c;
+  position:fixed;
+  top:.0em;
+  left:.0em;
+
+              
+}
+.wwhole  .title
+{
+    text-align: center; font-size: 14pt; color: white; height: 48px; 
+
+width: 100%;
+            line-height: 48px; display: block;
+}
+ .proheadright a
+{
+	display: inline-block;
+	width: 40px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 18px;
+	color: white;
+	float: left;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 10px;
+	color: #44a28c;
+	text-decoration: none;
+	border-radius: 5px;
+	background-color: white;
+	text-align: center;
+	font-family: "华文细黑";
+}
+
+.list
+{
+	width:100%;
+	margin:0 auto;
+	background-color:#f7f7f7;
+	 line-height: 50px;
+	 height:50px;
+	 text-align:center;
+	 color:#50bea5;
+	 border-bottom:solid 1px #E3E3E3;
+}
+.list .seach
+{
+    width:40px;height:32px;
+    background-color:#50bea5;
+    color:#FFF;
+    display:inline-block;
+    margin:.3em;
+    cursor:pointer;
+    line-height:32px;
+}
+.list .listT
+{
+     display:inline-block;
+     width:50px;
+}
+.list .Selected
+{
+	width: 40px;
+	height: 32px;
+	background-color: #e3e3e3;
+	color: #50bea5;
+	margin: .3em;
+	display: inline-block;
+	cursor: pointer;
+	line-height: 32px;
+}
+.list .listT2
+{
+	display:inline-block;
+	width: 62px;
+}
+.list2
+{
+	width:100%;
+	margin:0 auto;
+	background-color:#f7f7f7;
+	 line-height: 50px;
+	 height:105px;
+
+	 text-align:center;
+	 color:#50bea5;
+	 border-bottom:solid 1px #E3E3E3;
+}
+.list2 .seach
+{
+    width:60px;
+	height:32px;
+    background-color:#50bea5;
+    color:#FFF;
+    display:inline-block;
+    margin:.3em;
+    cursor:pointer;
+    line-height:32px;
+}
+.list2 .listT
+{
+     display:inline-block;
+
+     width:50px;
+}
+.list2 .Selected
+{
+	width: 60px;
+	height: 32px;
+	background-color: #e3e3e3;
+	color: #50bea5;
+	margin: .3em;
+	display: inline-block;
+	cursor: pointer;
+	line-height: 32px;
+}
+
+.about {
+	padding: 1em;
+	height: auto;
+    margin-top:40px;
+}
+h2
+{
+	font-size: 1.2em;
+	color: #464646;
+}
